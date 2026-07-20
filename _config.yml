@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: 软件使用说明
+description: 介绍我开发的软件如何使用
 theme: just-the-docs
 
-url: wuqian9871.github.io
+url: wuqian9871.github.io/doc
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
